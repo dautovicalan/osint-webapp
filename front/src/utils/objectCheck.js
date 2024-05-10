@@ -5,7 +5,8 @@ export const hasAdditionalProperties = (obj) => {
       key != "domain" &&
       key != "start_time" &&
       key != "end_time" &&
-      key != "_id"
+      key != "_id" &&
+      key != "sources"
     ) {
       if (obj[key].length > 0) {
         hasAdditionalProperties = true;
