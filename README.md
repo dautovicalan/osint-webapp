@@ -2,7 +2,7 @@
 
 ## Description
 
-PTBOX is an Open Source Intelligence (OSINT) Basic Application built using React for the frontend and Python Flask for the backend. The project structure is organized into separate folders for the frontend (front) and backend (back). This modular design allows for independent development, testing, and deployment of each component.
+This is an Open Source Intelligence (OSINT) Basic Application built using React for the frontend and Python Flask for the backend. The project structure is organized into separate folders for the frontend (front) and backend (back). This modular design allows for independent development, testing, and deployment of each component.
 
 The frontend presents a user-friendly interface for interacting with the application, while the backend handles data processing, communication with external services, and database operations.
 
