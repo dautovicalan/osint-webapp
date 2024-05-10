@@ -1,0 +1,9 @@
+Flask~=3.0.3
+pymongo[srv]~=4.7.2
+Flask-PyMongo
+Flask-Cors
+docker~=7.0.0
+certifi~=2024.2.2
+pytest~=8.2.0
+PyYAML~=6.0.1
+requests~=2.31.0
